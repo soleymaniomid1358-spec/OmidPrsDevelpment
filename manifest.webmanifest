@@ -1,0 +1,22 @@
+{
+  "name": "مسیر رشد | برنامه شخصی و اجرایی",
+  "short_name": "مسیر رشد",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#f3f5fa",
+  "theme_color": "#0759b2",
+  "lang": "fa",
+  "dir": "rtl",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
